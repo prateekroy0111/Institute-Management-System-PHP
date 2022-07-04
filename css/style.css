@@ -1,0 +1,41 @@
+body{
+	background-color: azure;
+}
+.heading1{
+	color: coral;
+	font-family: cursive;
+	font-weight: bold;
+	text-align: center;
+}
+.heading2{
+	color: purple;
+	font-weight: bold;
+	font-family: sans-serif;	
+	font-size: 30px;
+}
+.grids{
+	margin-top:30px;
+}
+.box{
+	margin-top:40px;
+	margin-right:50px;
+}
+.icon{
+	padding: 10px;
+}
+.login-border{
+	margin-top: 60px;
+	border: 3px groove !important;
+	padding: 20px;
+}
+.bold{
+	font-weight: bold;
+	font-size: 20px;
+}
+.footer{
+	margin-top: 100px;
+	color: purple;
+	font-family: sans-serif;	
+	font-size: 20px;
+	background-color: gold;
+}
